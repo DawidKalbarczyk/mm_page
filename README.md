@@ -60,8 +60,8 @@ Więcej informacji o salonie, w tym formularz, szczegóły dojazdu i opcje rezer
 
 <div align="center">
   <!-- [ZAMIEŃ "URL_DO_TWOJEGO_FILMU" ORAZ URL MINIATURY NA ODPOWIEDNIE LINKI] -->
-  <a href="URL_DO_TWOJEGO_FILMU" target="_blank">
-    <img src="https://img.youtube.com/vi/ID_FILMU/maxresdefault.jpg" alt="Prezentacja strony Salon Obsession" width="800">
+  <a href="https://youtu.be/tmV8-Jo212Y" target="_blank">
+    <img src="https://i9.ytimg.com/vi/tmV8-Jo212Y/mqdefault.jpg?v=6aa91c14&sqp=CNC3pNUG&rs=AOn4CLCUFs8-CXLUcrarImDwitKlehMDqg" alt="Prezentacja strony Salon Obsession" width="800">
   </a>
   <br>
   <p><em>Kliknij w obrazek, aby obejrzeć film! 🍿</em></p>
